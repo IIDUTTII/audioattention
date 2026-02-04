@@ -2,7 +2,11 @@ __pycache__/
 *.pyc
 *.pyo
 *.swp
-data
+data/kul_data/
+data/dtu_data/
+data/ccache_dtu/
+# Ignore zip files anywhere
+*.zip
 cache
 # Swap
 *.swp
